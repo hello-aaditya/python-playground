@@ -78,7 +78,4 @@ print(g(3))  # Output: 27
 - The `f` and `g` functions are returned by `coffee_coder` with different captured values for `num`.
 - When called with an argument, they perform the power operation using their captured `num` value.
 
-This allows you to create specialized functions dynamically and use them as needed.
 ```
-
-This markdown format explains the `coffee_coder` function, how closures work, and provides a complete example with output.
