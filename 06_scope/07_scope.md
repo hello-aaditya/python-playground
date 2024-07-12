@@ -78,4 +78,3 @@ print(g(3))  # Output: 27
 - The `f` and `g` functions are returned by `coffee_coder` with different captured values for `num`.
 - When called with an argument, they perform the power operation using their captured `num` value.
 
-```
