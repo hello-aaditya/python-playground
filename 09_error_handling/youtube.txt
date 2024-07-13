@@ -1,0 +1,1 @@
+[{"name": "Best way to install python", "time": "20:02 min"}, {"name": "Python inner working", "time": "18:48 min"}, {"name": "Python in Shell", "time": "20:06 min"}, {"name": "Immutable and mutable in Python", "time": "17:10 min"}, {"name": "Python Data types", "time": "30:50 min"}]
